@@ -1,3 +1,6 @@
 aliens
 avengers
 star wars
+icecream
+pizza
+shawarma
